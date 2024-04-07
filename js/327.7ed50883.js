@@ -1,1 +1,0 @@
-"use strict";(globalThis["webpackChunkquasar_project"]=globalThis["webpackChunkquasar_project"]||[]).push([[327],{4327:(a,r,u)=>{u.r(r),u.d(r,{default:()=>l});var e=u(9835);function n(a,r){return(0,e.wg)(),(0,e.iD)("div",null,"My violations")}var s=u(1639);const t={},i=(0,s.Z)(t,[["render",n]]),l=i}}]);
